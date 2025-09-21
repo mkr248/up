@@ -1,4 +1,4 @@
-![](assets/title.png)
+7![](assets/title.png)
 
 Up deploys infinitely scalable serverless apps, APIs, and static websites in seconds, so you can get back to working on what makes your product unique.
 
